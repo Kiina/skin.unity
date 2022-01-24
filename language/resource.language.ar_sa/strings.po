@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2021-11-10 20:34+0000\n"
 "Last-Translator: psp2111-ADSLGATE <psp100000@hotmail.com>\n"
@@ -723,6 +723,27 @@ msgstr "خصائص المؤقت"
 msgctxt "#31511"
 msgid "Channel Options"
 msgstr "خيارات القناة"
+
+# empty strings from id 31512 to 31609
+msgctxt "#31610"
+msgid "Artwork Type"
+msgstr ""
+
+msgctxt "#31611"
+msgid "Poster"
+msgstr ""
+
+msgctxt "#31612"
+msgid "Square"
+msgstr ""
+
+msgctxt "#31613"
+msgid "Wide"
+msgstr ""
+
+msgctxt "#31614"
+msgid "Weather"
+msgstr ""
 
 msgctxt "#31901"
 msgid "36 Hour Forecast"
