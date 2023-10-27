@@ -5,17 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-05-25 10:08+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2023-10-06 02:11+0000\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/fi_fi/>\n"
 "Language: fi_fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 5.0.2\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
@@ -63,7 +63,7 @@ msgstr "Käytä toistolistaa käynnistyksen yhteydessä"
 
 msgctxt "#31008"
 msgid "Full screen"
-msgstr "Kokoruutu"
+msgstr "Koko ruutu"
 
 msgctxt "#31009"
 msgid "Total Duration"
@@ -87,7 +87,7 @@ msgstr "Äänikäsittelyn tiedot"
 
 msgctxt "#31014"
 msgid "Memory used"
-msgstr "Muistinkäyttö"
+msgstr "Keskusmuistin varaus"
 
 msgctxt "#31015"
 msgid "Video process information"
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#31017"
 msgid "Unavailable"
-msgstr "Ei saatavilla"
+msgstr "Ei käytettävissä"
 
 msgctxt "#31022"
 msgid "Music - Files"
@@ -107,7 +107,7 @@ msgstr "Musiikki - Tiedostot"
 
 msgctxt "#31023"
 msgid "Playing"
-msgstr "Toistaa"
+msgstr "Toistetaan"
 
 msgctxt "#31024"
 msgid "Page"
@@ -123,7 +123,7 @@ msgstr "Muut asetukset"
 
 msgctxt "#31027"
 msgid "Location"
-msgstr "Paikkakunta"
+msgstr "Sijainti"
 
 msgctxt "#31028"
 msgid "Poster Wrap"
@@ -135,11 +135,11 @@ msgstr "Fanitaide"
 
 msgctxt "#31030"
 msgid "Reset Skin"
-msgstr "Palauta ulkoasun asetukset"
+msgstr "Palauta ulkoasu"
 
 msgctxt "#31031"
 msgid "Pic Thumbs"
-msgstr "Kuva kuvake"
+msgstr "Kuvien pienoiskuvat"
 
 msgctxt "#31032"
 msgid "Image Wrap"
@@ -167,7 +167,7 @@ msgstr "Toiminnot"
 
 msgctxt "#31040"
 msgid "Now Playing"
-msgstr "Nyt toistetaan"
+msgstr "Toistetaan parhaillaan"
 
 msgctxt "#31042"
 msgid "PLAYING"
@@ -175,19 +175,19 @@ msgstr "TOISTETAAN"
 
 msgctxt "#31043"
 msgid "PAUSED"
-msgstr "TAUKO"
+msgstr "TAUOTETTU"
 
 msgctxt "#31044"
 msgid "FAST FORWARD"
-msgstr "KELAUS ETEENPÄIN"
+msgstr "ETEENPÄIN"
 
 msgctxt "#31045"
 msgid "REWIND"
-msgstr "KELAUS TAAKSEPÄIN"
+msgstr "TAAKSEPÄIN"
 
 msgctxt "#31046"
 msgid "SEEKING"
-msgstr "HAKEE"
+msgstr "SIIRRYTÄÄN"
 
 msgctxt "#31048"
 msgid "Visualisation Presets"
@@ -195,15 +195,15 @@ msgstr "Visualisoinnin esiasetukset"
 
 msgctxt "#31049"
 msgid "End Time"
-msgstr "Päättymisaika"
+msgstr "Päättyy"
 
 msgctxt "#31050"
 msgid "Sort: Ascending"
-msgstr "Järjestä: Nousevasti"
+msgstr "Suunta: Nouseva"
 
 msgctxt "#31051"
 msgid "Sort: Descending"
-msgstr "Järjestä: Laskevasti"
+msgstr "Suunta: Laskeva"
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -219,7 +219,7 @@ msgstr "Sulje toistolista"
 
 msgctxt "#31058"
 msgid "System music files"
-msgstr "Musiikkitiedostot"
+msgstr "Järjestelmän musiikkitiedostot"
 
 msgctxt "#31059"
 msgid "Current playlist"
@@ -235,19 +235,19 @@ msgstr "Nyt valittuna"
 
 msgctxt "#31062"
 msgid "Sorted by"
-msgstr ""
+msgstr "Lajitteluperuste"
 
 msgctxt "#31063"
 msgid "minutes"
-msgstr ""
+msgstr "minuuttia"
 
 msgctxt "#31064"
 msgid "Shutdown"
-msgstr ""
+msgstr "Sammuta"
 
 msgctxt "#31065"
 msgid "Context"
-msgstr ""
+msgstr "Konteksti"
 
 msgctxt "#31066"
 msgid "Show Extra Fanart"
@@ -259,7 +259,7 @@ msgstr "Polku"
 
 msgctxt "#31068"
 msgid "Age"
-msgstr ""
+msgstr "Ikä"
 
 msgctxt "#31069"
 msgid " - Path to music library"
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#31070"
 msgid "by"
-msgstr ""
+msgstr "tekijältä"
 
 msgctxt "#31071"
 msgid "current"
@@ -291,7 +291,7 @@ msgstr ""
 
 msgctxt "#31101"
 msgid "Home screen options"
-msgstr "Päävalikon asetukset"
+msgstr "Aloitusnäytön asetukset"
 
 msgctxt "#31102"
 msgid "Background"
@@ -319,7 +319,7 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "Hide Main Menu Buttons"
-msgstr "Piilota päävalikon painikkeet"
+msgstr "Piilota päävalikon painikkeita"
 
 msgctxt "#31109"
 msgid "Enable Custom Background"
@@ -359,7 +359,7 @@ msgstr "Näytä viimeksi lisätyt videot"
 
 msgctxt "#31118"
 msgid "Home Page Programs Sub-menu"
-msgstr "Kotisivu Ohjelmat Alavalikko"
+msgstr "Aloitusnäytön Ohjelmat-alivalikko"
 
 msgctxt "#31119"
 msgid "Hide Background Fanart"
@@ -367,7 +367,7 @@ msgstr "Piilota taustan fanitaide"
 
 msgctxt "#31120"
 msgid "Single Image"
-msgstr ""
+msgstr "Yksittäinen kuva"
 
 msgctxt "#31121"
 msgid "Multi-Image"
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
-msgstr "Näytä taustalla \"Nyt katsellaan\"-video"
+msgstr "Näytä toistettava video taustalla"
 
 msgctxt "#31125"
 msgid "Show Background \"Now Playing\" Visualisation"
-msgstr "Näytä taustalla \"Nyt soi\"-visualisaatio"
+msgstr "Näytä visualisointi taustalla"
 
 msgctxt "#31126"
 msgid "Play TV theme songs in video library (TvTunes add-on)"
@@ -403,7 +403,7 @@ msgstr ""
 
 msgctxt "#31132"
 msgid "Lyrics Add-on"
-msgstr "Sanoitukset-lisäosa"
+msgstr "Sanoituslisäosa"
 
 msgctxt "#31133"
 msgid "Use submenu as widget"
@@ -411,15 +411,15 @@ msgstr ""
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
-msgstr "Kotisivu Videot Alavalikko"
+msgstr "Aloitusnäytön Videot-alivalikko"
 
 msgctxt "#31135"
 msgid "Home Page Music Sub-menu"
-msgstr "Kotisivu Musiikki Alavalikko"
+msgstr "Aloitusnäytön Musiikki-alivalikko"
 
 msgctxt "#31136"
 msgid "Home Page Pictures Sub-menu"
-msgstr "Kotisivu Kuvat Alavalikko"
+msgstr "Aloitusnäytön Kuvat-alivalikko"
 
 msgctxt "#31140"
 msgid "Music OSD"
@@ -431,7 +431,7 @@ msgstr "Video-OSD"
 
 msgctxt "#31142"
 msgid "Settings level"
-msgstr "Asetustaso"
+msgstr "Asetusten laajuus"
 
 # empty strings from id 31143 to 31177
 msgctxt "#31178"
@@ -456,7 +456,7 @@ msgstr "Valitse kappale"
 
 msgctxt "#31205"
 msgid "Lyrics Source"
-msgstr "Sanoitusten lähde"
+msgstr "Sanoituslähde"
 
 msgctxt "#31206"
 msgid "Found"
@@ -476,7 +476,7 @@ msgstr "Älä piilota infovalikkoa musiikkia toistettaessa"
 
 msgctxt "#31300"
 msgid "Current Temp"
-msgstr "Tämänhetkinen säätila"
+msgstr "Nykyinen lämpötila"
 
 msgctxt "#31301"
 msgid "Last Updated"
@@ -484,7 +484,7 @@ msgstr "Viimeksi päivitetty"
 
 msgctxt "#31303"
 msgid "Data provider"
-msgstr "Tietojen tarjoaja"
+msgstr "Tietolähde"
 
 msgctxt "#31307"
 msgid "Hide Fanart"
@@ -528,7 +528,7 @@ msgstr "Valittu profiili"
 
 msgctxt "#31320"
 msgid "Last Logged In"
-msgstr "Viimeksi kirjauduttu"
+msgstr "Viimeksi kirjautunut"
 
 msgctxt "#31321"
 msgid "Karaoke Song Selector"
@@ -540,7 +540,7 @@ msgstr "Esitetty"
 
 msgctxt "#31325"
 msgid "Playlist Options"
-msgstr "Toistolistan asetukset"
+msgstr "Toistolistavalinnat"
 
 msgctxt "#31326"
 msgid "Created"
@@ -568,7 +568,7 @@ msgstr "Albumin tiedot"
 
 msgctxt "#31351"
 msgid "Pause"
-msgstr "Tauko"
+msgstr "Tauota"
 
 msgctxt "#31352"
 msgid "Stop"
@@ -576,11 +576,11 @@ msgstr "Pysäytä"
 
 msgctxt "#31353"
 msgid "Fast Forward"
-msgstr "Kelaa eteenpäin"
+msgstr "Eteenpäin"
 
 msgctxt "#31354"
 msgid "Rewind"
-msgstr "Kelaa taaksepäin"
+msgstr "Taaksepäin"
 
 msgctxt "#31355"
 msgid "Movie menu"
@@ -588,11 +588,11 @@ msgstr "Elokuvavalikko"
 
 msgctxt "#31356"
 msgid "Download Subtitles"
-msgstr "Lataa tekstitykset"
+msgstr "Lataa tekstityksiä"
 
 msgctxt "#31360"
 msgid "Watch as 2D"
-msgstr "Katso 2D:nä"
+msgstr "Katsele 2D-tilassa"
 
 msgctxt "#31361"
 msgid "Change mode"
@@ -668,7 +668,7 @@ msgstr "Tämä välilehti merkitsee ikkunan sivussa olevan tämän osaston ekstr
 
 msgctxt "#31413"
 msgid "Local subtitle available"
-msgstr "Paikallisia tekstityksiä saatavilla"
+msgstr "Paikallinen tekstitys on käytettävissä"
 
 msgctxt "#31420"
 msgid "Login"
@@ -676,7 +676,7 @@ msgstr "Kirjaudu"
 
 msgctxt "#31421"
 msgid "Select your Kodi user Profile[CR]to login and continue"
-msgstr "Valitse Kodi-käyttäjäprofiili[CR]kirjautuaksesi sisään"
+msgstr "Jatka kirjatumalla[CR]Kodi-käyttäjäprofiilillesi"
 
 msgctxt "#31422"
 msgid "Show or hide the login screen at startup."
@@ -684,7 +684,7 @@ msgstr "Näytä tai piilota kirjautumisruutu käynnistyksessä."
 
 msgctxt "#31423"
 msgid "Select the profile that will be used at startup when the login screen is disabled."
-msgstr "Valitse se profiili, jota käytetään käynnistyksessä, kun kirjautumisruutu on poiskytketty."
+msgstr "Valitse käynnistyksessä käytettävä profiili kirjautumisruudun ollessa pois käytöstä."
 
 msgctxt "#31501"
 msgid "Scheduled Time"
@@ -692,7 +692,7 @@ msgstr "Kellonaika"
 
 msgctxt "#31502"
 msgid "Live TV"
-msgstr "TV-lähetys"
+msgstr "Televisio"
 
 msgctxt "#31503"
 msgid "Add Group"
@@ -700,7 +700,7 @@ msgstr "Lisää ryhmä"
 
 msgctxt "#31504"
 msgid "Rename Group"
-msgstr "Muuta ryhmän nimeä"
+msgstr "Nimeä ryhmä uudelleen"
 
 msgctxt "#31505"
 msgid "Delete Group"
@@ -725,23 +725,23 @@ msgstr "Kanavan valinnat"
 # empty strings from id 31512 to 31609
 msgctxt "#31610"
 msgid "Artwork Type"
-msgstr ""
+msgstr "Kuvamateriaalin tyyppi"
 
 msgctxt "#31611"
 msgid "Poster"
-msgstr ""
+msgstr "Juliste"
 
 msgctxt "#31612"
 msgid "Square"
-msgstr ""
+msgstr "Neliö"
 
 msgctxt "#31613"
 msgid "Wide"
-msgstr ""
+msgstr "Leveä"
 
 msgctxt "#31614"
 msgid "Weather"
-msgstr ""
+msgstr "Säätila"
 
 msgctxt "#31901"
 msgid "36 Hour Forecast"
@@ -749,7 +749,7 @@ msgstr "36 tunnin ennuste"
 
 msgctxt "#31902"
 msgid "Hourly Forecast"
-msgstr "Tunneittainen ennuste"
+msgstr "Tuntiennuste"
 
 msgctxt "#31903"
 msgid "Weekend Forecast"
@@ -769,7 +769,7 @@ msgstr "Sateen mahdollisuus"
 
 msgctxt "#31909"
 msgid "Fetching forecast info..."
-msgstr "Noudetaan ennusteen tietoja..."
+msgstr "Noudetaan ennustetietoja..."
 
 msgctxt "#31910"
 msgid "Maps"
@@ -893,7 +893,7 @@ msgstr "ELOKUVAT"
 
 msgctxt "#31955"
 msgid "TV SHOWS"
-msgstr "TV-SARJAT"
+msgstr "SARJAT"
 
 msgctxt "#31956"
 msgid "MUSIC"

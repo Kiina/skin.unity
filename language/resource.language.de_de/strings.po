@@ -5,17 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-09-26 13:30+0000\n"
-"Last-Translator: Chillbo <admin.weblate@contribute-osmc.com>\n"
+"PO-Revision-Date: 2023-01-09 09:15+0000\n"
+"Last-Translator: Kai Sommerfeld <kai.sommerfeld@gmx.com>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
@@ -67,7 +67,7 @@ msgstr "Vollbild"
 
 msgctxt "#31009"
 msgid "Total Duration"
-msgstr "Gesamte Dauer"
+msgstr "Gesamtlaufzeit"
 
 msgctxt "#31010"
 msgid "Hardware decoding"
@@ -119,7 +119,7 @@ msgstr "Einträge"
 
 msgctxt "#31026"
 msgid "Misc Options"
-msgstr "Allgemeine Optionen"
+msgstr "Verschiedene Optionen"
 
 msgctxt "#31027"
 msgid "Location"
@@ -167,7 +167,7 @@ msgstr "Aktionen"
 
 msgctxt "#31040"
 msgid "Now Playing"
-msgstr "Jetzt läuft"
+msgstr "Gerade läuft"
 
 msgctxt "#31042"
 msgid "PLAYING"
@@ -191,7 +191,7 @@ msgstr "SUCHLAUF"
 
 msgctxt "#31048"
 msgid "Visualisation Presets"
-msgstr "Visualisierungspresets"
+msgstr "Visualisierungsvoreinstellungen"
 
 msgctxt "#31049"
 msgid "End Time"
@@ -227,7 +227,7 @@ msgstr "Aktuelle Wiedergabeliste"
 
 msgctxt "#31060"
 msgid "This file is stacked, select the part you want to play from."
-msgstr "Diese Datei ist gestapelt. Wähle den abzuspielenden Teil aus."
+msgstr "Die Datei ist gestapelt. Bitte auswählen, ab wo die Wiedergabe starten soll."
 
 msgctxt "#31061"
 msgid "Current Selected"
@@ -267,7 +267,7 @@ msgstr " - Pfad zur Musikbibliothek"
 
 msgctxt "#31070"
 msgid "by"
-msgstr ""
+msgstr "von"
 
 msgctxt "#31071"
 msgid "current"
@@ -367,7 +367,7 @@ msgstr "Hintergrund-Fanart ausblenden"
 
 msgctxt "#31120"
 msgid "Single Image"
-msgstr ""
+msgstr "Einzelbild"
 
 msgctxt "#31121"
 msgid "Multi-Image"
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
-msgstr "Zeige aktuell abgespieltes Video im Hintergrund"
+msgstr "Im Hintergrund „Aktuell abgespielt“-Video anzeigen"
 
 msgctxt "#31125"
 msgid "Show Background \"Now Playing\" Visualisation"
-msgstr "Zeige aktuelle Visualisierung im Hintergrund"
+msgstr "Im Hintergrund „Aktuell wiedergegben“-Visualisierung anzeigen"
 
 msgctxt "#31126"
 msgid "Play TV theme songs in video library (TvTunes add-on)"
@@ -395,7 +395,7 @@ msgstr "Liedtexte"
 
 msgctxt "#31129"
 msgid "Hide Fanart in full screen visualisation"
-msgstr "Fanart in Vollbild-Visualisierung ausblenden"
+msgstr "Fanart in der Vollbildvisualisierung ausblenden"
 
 msgctxt "#31130"
 msgid "Fanart slideshow (Artist Slideshow add-on)"
@@ -729,19 +729,19 @@ msgstr ""
 
 msgctxt "#31611"
 msgid "Poster"
-msgstr ""
+msgstr "Poster"
 
 msgctxt "#31612"
 msgid "Square"
-msgstr ""
+msgstr "Quadratisch"
 
 msgctxt "#31613"
 msgid "Wide"
-msgstr ""
+msgstr "Breit"
 
 msgctxt "#31614"
 msgid "Weather"
-msgstr ""
+msgstr "Wetter"
 
 msgctxt "#31901"
 msgid "36 Hour Forecast"
@@ -850,7 +850,7 @@ msgstr "Bernstein"
 
 msgctxt "#31935"
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 msgctxt "#31936"
 msgid "Deep Orange"

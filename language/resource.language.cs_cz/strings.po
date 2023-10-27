@@ -5,17 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-10-27 13:30+0000\n"
-"Last-Translator: HansCR <h.vanek@gmail.com>\n"
+"PO-Revision-Date: 2023-10-27 12:11+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.1\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
@@ -91,7 +91,7 @@ msgstr "Využití paměti"
 
 msgctxt "#31015"
 msgid "Video process information"
-msgstr ""
+msgstr "Informace o zpracování videa"
 
 msgctxt "#31016"
 msgid "Use Landscape Artwork"
@@ -135,7 +135,7 @@ msgstr "Fanouškovské umění"
 
 msgctxt "#31030"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Resetovat vzhled"
 
 msgctxt "#31031"
 msgid "Pic Thumbs"
@@ -207,7 +207,7 @@ msgstr "Řazení: Sestupně"
 
 msgctxt "#31055"
 msgid "Open playlist"
-msgstr "Otevřít seznam skladeb"
+msgstr "Otevřít seznam stop"
 
 msgctxt "#31056"
 msgid "Save playlist"
@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "#31068"
 msgid "Age"
-msgstr ""
+msgstr "Věk"
 
 msgctxt "#31069"
 msgid " - Path to music library"
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#31070"
 msgid "by"
-msgstr ""
+msgstr "od"
 
 msgctxt "#31071"
 msgid "current"
@@ -367,7 +367,7 @@ msgstr "Skrýt Fanart na pozadí"
 
 msgctxt "#31120"
 msgid "Single Image"
-msgstr ""
+msgstr "1 pozadí"
 
 msgctxt "#31121"
 msgid "Multi-Image"
@@ -605,7 +605,7 @@ msgstr "Povoleno"
 
 msgctxt "#31390"
 msgid "Skin default"
-msgstr "Výchozí vzhled"
+msgstr "Výchozí nastavení vzhledu"
 
 msgctxt "#31391"
 msgid "Skin default with no Caps"
@@ -730,7 +730,7 @@ msgstr ""
 
 msgctxt "#31611"
 msgid "Poster"
-msgstr ""
+msgstr "Plagát"
 
 msgctxt "#31612"
 msgid "Square"
@@ -738,11 +738,11 @@ msgstr ""
 
 msgctxt "#31613"
 msgid "Wide"
-msgstr ""
+msgstr "Široké"
 
 msgctxt "#31614"
 msgid "Weather"
-msgstr ""
+msgstr "Počasí"
 
 msgctxt "#31901"
 msgid "36 Hour Forecast"
