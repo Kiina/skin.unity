@@ -5,29 +5,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-02-23 08:14+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2022-10-18 14:15+0000\n"
+"Last-Translator: Nao3Line Prez <n.yazawa6932@gmail.com>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/id_id/>\n"
 "Language: id_id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.14.1\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
-msgstr ""
+msgstr "Skin material untuk Kodi oleh Eddage"
 
 msgctxt "Addon Description"
 msgid "Unity is an adaptation of Confluence based on a material design."
-msgstr ""
+msgstr "Unity adalah adaptasi dari Confluence berdasarkan desain material."
 
 msgctxt "Addon Disclaimer"
 msgid "More info on the skin can be found at the Kodi Forums."
-msgstr ""
+msgstr "Info lebih lanjut tentang skin dapat ditemukan di Forum Kodi."
 
 msgctxt "#31000"
 msgid "Change Your"
@@ -39,7 +39,7 @@ msgstr "Permainan"
 
 msgctxt "#31002"
 msgid "[B]GAME SETTINGS[/B][CR][CR]Configure rewind support & options ·  Configure keyboard use and number of keyboard players"
-msgstr ""
+msgstr "[B]PENGATURAN PERMAINAN[/B][CR][CR]Konfigurasikan dukungan & opsi mundur · Konfigurasikan penggunaan keyboard dan jumlah pemain keyboard"
 
 msgctxt "#31003"
 msgid "Power Options"
@@ -59,7 +59,7 @@ msgstr "Lihat Pilihan"
 
 msgctxt "#31007"
 msgid "Enable playlist at startup"
-msgstr ""
+msgstr "Aktifkan daftar putar saat memulai"
 
 msgctxt "#31008"
 msgid "Full screen"
@@ -71,31 +71,31 @@ msgstr "Durasi Total"
 
 msgctxt "#31010"
 msgid "Hardware decoding"
-msgstr ""
+msgstr "Penguraian kode perangkat keras"
 
 msgctxt "#31011"
 msgid "Inactive"
-msgstr ""
+msgstr "Tdk aktif"
 
 msgctxt "#31012"
 msgid "Decoder"
-msgstr ""
+msgstr "Dekoder"
 
 msgctxt "#31013"
 msgid "Audio process information"
-msgstr ""
+msgstr "Informasi proses audio"
 
 msgctxt "#31014"
 msgid "Memory used"
-msgstr ""
+msgstr "Memori yang digunakan"
 
 msgctxt "#31015"
 msgid "Video process information"
-msgstr ""
+msgstr "Informasi proses video"
 
 msgctxt "#31016"
 msgid "Use Landscape Artwork"
-msgstr ""
+msgstr "Gunakan Karya Seni Lanskap"
 
 msgctxt "#31017"
 msgid "Unavailable"
@@ -131,11 +131,11 @@ msgstr "Wrap Poster"
 
 msgctxt "#31029"
 msgid "Fanart"
-msgstr "Fanart"
+msgstr "SeniFan"
 
 msgctxt "#31030"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Atur Ulang Skin"
 
 msgctxt "#31031"
 msgid "Pic Thumbs"
@@ -151,15 +151,15 @@ msgstr "Info"
 
 msgctxt "#31034"
 msgid "Media Info 2"
-msgstr ""
+msgstr "Info Media 2"
 
 msgctxt "#31035"
 msgid "Media Info 3"
-msgstr ""
+msgstr "Info Media 3"
 
 msgctxt "#31036"
 msgid "Info 2"
-msgstr ""
+msgstr "Info 2"
 
 msgctxt "#31039"
 msgid "Actions"
@@ -235,43 +235,43 @@ msgstr "Pilihan saat ini"
 
 msgctxt "#31062"
 msgid "Sorted by"
-msgstr ""
+msgstr "Diurutkan berdasarkan"
 
 msgctxt "#31063"
 msgid "minutes"
-msgstr ""
+msgstr "menit"
 
 msgctxt "#31064"
 msgid "Shutdown"
-msgstr ""
+msgstr "Matikan"
 
 msgctxt "#31065"
 msgid "Context"
-msgstr ""
+msgstr "Konteks"
 
 msgctxt "#31066"
 msgid "Show Extra Fanart"
-msgstr ""
+msgstr "Tampilkan Fanart Ekstra"
 
 msgctxt "#31067"
 msgid "Path"
-msgstr ""
+msgstr "Jalur"
 
 msgctxt "#31068"
 msgid "Age"
-msgstr ""
+msgstr "Umur"
 
 msgctxt "#31069"
 msgid " - Path to music library"
-msgstr ""
+msgstr " - Jalur ke pustaka musik"
 
 msgctxt "#31070"
 msgid "by"
-msgstr ""
+msgstr "oleh"
 
 msgctxt "#31071"
 msgid "current"
-msgstr ""
+msgstr "saat ini"
 
 msgctxt "#31072"
 msgid "Skin"
@@ -279,15 +279,15 @@ msgstr "Kulit"
 
 msgctxt "#31073"
 msgid "Debug options"
-msgstr ""
+msgstr "Opsi debug"
 
 msgctxt "#31074"
 msgid "Hide debug information"
-msgstr ""
+msgstr "Sembunyikan informasi debug"
 
 msgctxt "#31075"
 msgid "Reset all Skin Settings"
-msgstr ""
+msgstr "Ulang semua Pengaturan Skin"
 
 msgctxt "#31101"
 msgid "Home screen options"
@@ -303,11 +303,11 @@ msgstr "Tampilkan \"jead\" pada slideshow citra"
 
 msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
-msgstr ""
+msgstr "Putar Cuplikan di jendela (Hanya Dialog Informasi Video)"
 
 msgctxt "#31105"
 msgid "Mask background to hide submenu under transparent main menu"
-msgstr ""
+msgstr "Latar belakang bayang untuk menyembunyikan submenu di bawah menu utama transparan"
 
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -315,7 +315,7 @@ msgstr "Opsi Lainnya"
 
 msgctxt "#31107"
 msgid "Hide Flagging read from video filenames (Blu-ray, HD-DVD)"
-msgstr ""
+msgstr "Sembunyikan Penandaan dibaca dari nama file video (Blu-ray, HD-DVD)"
 
 msgctxt "#31108"
 msgid "Hide Main Menu Buttons"
@@ -339,15 +339,15 @@ msgstr "Opsi"
 
 msgctxt "#31113"
 msgid "Multi-Image Background Timer:"
-msgstr ""
+msgstr "Pewaktu Latar Belakang Multi-Gambar:"
 
 msgctxt "#31114"
 msgid "seconds"
-msgstr ""
+msgstr "detik"
 
 msgctxt "#31115"
 msgid "Auto-hide the Sub-menu"
-msgstr ""
+msgstr "Sembunyikan Sub-menu secara otomatis"
 
 msgctxt "#31116"
 msgid "Show Recently added Albums"
@@ -355,7 +355,7 @@ msgstr "Tampilkan Album yang ditambahkan baru saja"
 
 msgctxt "#31117"
 msgid "Show Recently added Videos"
-msgstr "Tampilkan Video yang ditambahkan baru baru ini"
+msgstr "Tampilkan Video yang Baru ditambahkan"
 
 msgctxt "#31118"
 msgid "Home Page Programs Sub-menu"
@@ -367,11 +367,11 @@ msgstr "Sembunyikan Background Fanart"
 
 msgctxt "#31120"
 msgid "Single Image"
-msgstr ""
+msgstr "Gambar Tunggal"
 
 msgctxt "#31121"
 msgid "Multi-Image"
-msgstr ""
+msgstr "Multi-Gambar"
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -399,7 +399,7 @@ msgstr "Sembunyikan Fanart pada visualisasi layar penuh"
 
 msgctxt "#31130"
 msgid "Fanart slideshow (Artist Slideshow add-on)"
-msgstr ""
+msgstr "Slideshow Fanart (pengaya Slideshow Artis)"
 
 msgctxt "#31132"
 msgid "Lyrics Add-on"
@@ -407,7 +407,7 @@ msgstr "Pengaya Lirik"
 
 msgctxt "#31133"
 msgid "Use submenu as widget"
-msgstr ""
+msgstr "Gunakan submenu sebagai widget"
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
@@ -436,11 +436,11 @@ msgstr "Tingkat Setelan"
 # empty strings from id 31143 to 31177
 msgctxt "#31178"
 msgid "Stop video on back"
-msgstr ""
+msgstr "Hentikan video di belakang"
 
 msgctxt "#31179"
 msgid "Always open fullscreen music playback"
-msgstr ""
+msgstr "Selalu buka pemutaran musik layar penuh"
 
 msgctxt "#31200"
 msgid "Shortcuts"
@@ -448,7 +448,7 @@ msgstr "Bookmark"
 
 msgctxt "#31201"
 msgid "Experimental"
-msgstr ""
+msgstr "Eksperimental"
 
 msgctxt "#31203"
 msgid "Choose Your Song"
@@ -473,7 +473,7 @@ msgstr "Episode mendatang"
 # empty strings from id 31209 to 31231
 msgctxt "#31232"
 msgid "Do not hide OSD infopanel on fullscreen music playback"
-msgstr ""
+msgstr "Jangan sembunyikan panel info OSD pada pemutaran musik layar penuh"
 
 msgctxt "#31300"
 msgid "Current Temp"
@@ -589,7 +589,7 @@ msgstr "Menu film"
 
 msgctxt "#31356"
 msgid "Download Subtitles"
-msgstr "Unduh subtitle"
+msgstr "Unduh takarir"
 
 msgctxt "#31360"
 msgid "Watch as 2D"
@@ -617,11 +617,11 @@ msgstr "berbasis Arial"
 
 msgctxt "#31393"
 msgid "Roboto Bold"
-msgstr ""
+msgstr "Roboto Tebal"
 
 msgctxt "#31394"
 msgid "Roboto Black (Boldest)"
-msgstr ""
+msgstr "Roboto Hitam (Tebal)"
 
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
@@ -726,23 +726,23 @@ msgstr "Opsi Kanal"
 # empty strings from id 31512 to 31609
 msgctxt "#31610"
 msgid "Artwork Type"
-msgstr ""
+msgstr "Tipe Karya Seni"
 
 msgctxt "#31611"
 msgid "Poster"
-msgstr ""
+msgstr "Poster"
 
 msgctxt "#31612"
 msgid "Square"
-msgstr ""
+msgstr "Kotak"
 
 msgctxt "#31613"
 msgid "Wide"
-msgstr ""
+msgstr "Lebar"
 
 msgctxt "#31614"
 msgid "Weather"
-msgstr ""
+msgstr "Cuaca"
 
 msgctxt "#31901"
 msgid "36 Hour Forecast"
@@ -779,99 +779,99 @@ msgstr "Map"
 # empty strings from id 31911 to 31916
 msgctxt "#31917"
 msgid "Light Theme"
-msgstr ""
+msgstr "Tema Cerah"
 
 msgctxt "#31918"
 msgid "Dark Theme"
-msgstr ""
+msgstr "Tema Gelap"
 
 msgctxt "#31919"
 msgid "Choose colour"
-msgstr ""
+msgstr "Pilih warna"
 
 msgctxt "#31920"
 msgid "Colour Picker"
-msgstr ""
+msgstr "Ambil Warna"
 
 msgctxt "#31921"
 msgid "Red"
-msgstr ""
+msgstr "Merah"
 
 msgctxt "#31922"
 msgid "Pink"
-msgstr ""
+msgstr "Merah jambu"
 
 msgctxt "#31923"
 msgid "Purple"
-msgstr ""
+msgstr "Ungu"
 
 msgctxt "#31924"
 msgid "Deep Purple"
-msgstr ""
+msgstr "Ungu Gelap"
 
 msgctxt "#31925"
 msgid "Indigo"
-msgstr ""
+msgstr "Indigo"
 
 msgctxt "#31926"
 msgid "Blue"
-msgstr ""
+msgstr "Biru"
 
 msgctxt "#31927"
 msgid "Light Blue"
-msgstr ""
+msgstr "Biru Terang"
 
 msgctxt "#31928"
 msgid "Cyan"
-msgstr ""
+msgstr "Nilangsuka"
 
 msgctxt "#31929"
 msgid "Teal"
-msgstr ""
+msgstr "Hijau laut"
 
 msgctxt "#31930"
 msgid "Green"
-msgstr ""
+msgstr "Hijau"
 
 msgctxt "#31931"
 msgid "Light Green"
-msgstr ""
+msgstr "Hijau Terang"
 
 msgctxt "#31932"
 msgid "Lime"
-msgstr ""
+msgstr "Limau"
 
 msgctxt "#31933"
 msgid "Yellow"
-msgstr ""
+msgstr "Kuning"
 
 msgctxt "#31934"
 msgid "Amber"
-msgstr ""
+msgstr "Kuning Sawo"
 
 msgctxt "#31935"
 msgid "Orange"
-msgstr ""
+msgstr "Oranye"
 
 msgctxt "#31936"
 msgid "Deep Orange"
-msgstr ""
+msgstr "Oranye Gelap"
 
 msgctxt "#31937"
 msgid "Brown"
-msgstr ""
+msgstr "Coklat"
 
 msgctxt "#31938"
 msgid "Blue Grey"
-msgstr ""
+msgstr "Biru Keabuan"
 
 msgctxt "#31939"
 msgid "Grey"
-msgstr ""
+msgstr "Abu-abu"
 
 msgctxt "#31940"
 msgid "Welcome"
-msgstr ""
+msgstr "Selamat Datang"
 
 msgctxt "#31950"
 msgid "WEATHER"
